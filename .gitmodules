@@ -1,0 +1,15 @@
+[submodule "quote_generator"]
+	path = quote_generator
+	url = git@github.com:BradleyGilden/quote-generator.git
+[submodule "markdown_previewer"]
+	path = markdown_previewer
+	url = git@github.com:BradleyGilden/Markdown-Previewer.git
+[submodule "drum_machine"]
+	path = drum_machine
+	url = git@github.com:BradleyGilden/Drum-Machine.git
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:BradleyGilden/calculator-react.git
+[submodule "25_plus_5_clock"]
+	path = 25_plus_5_clock
+	url = git@github.com:BradleyGilden/25_plus_5_Clock.git
